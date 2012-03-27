@@ -1,0 +1,5 @@
+LIBLIGHT module for the i9100 based on CM9 4.0.3 with
+backlight notification functionality for neldar's
+BLN app and CM settings.
+
+Should be compatible with both, AOSP and Samsung.
